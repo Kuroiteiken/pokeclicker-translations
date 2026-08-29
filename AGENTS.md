@@ -172,11 +172,15 @@ Aynı kavram her dosyada aynı kelimeyle karşılanır. Yeni bir terim kararlaş
 | İngilizce | Türkçe |
 |---|---|
 | Achievement | Başarım |
-| Battle Item | Dövüş eşyası |
+| Battle (isim/fiil) | Savaş / savaşmak |
+| Battle Item | Savaş eşyası |
+| Battle Point | Savaş Puanı |
 | Berry | Meyve |
 | Breeding | Yetiştirme |
 | Catch / Capture | Yakalamak |
 | Challenge | Meydan okuma |
+| Clear (a dungeon) | Tamamlamak |
+| Diamond | Elmas |
 | Dungeon | Zindan |
 | Dungeon Token | Zindan Jetonu |
 | Egg | Yumurta |
@@ -186,6 +190,7 @@ Aynı kavram her dosyada aynı kelimeyle karşılanır. Yeni bir terim kararlaş
 | Farm Hand | Çiftlik Yardımcısı |
 | Farm Point | Çiftlik Puanı |
 | Gem | Mücevher |
+| Grand Trial | Büyük Sınav |
 | Hatch | Yumurtadan çıkmak |
 | Hatchery | Kuluçka |
 | Hatchery Helper | Kuluçka Yardımcısı |
@@ -203,9 +208,17 @@ Aynı kavram her dosyada aynı kelimeyle karşılanır. Yeni bir terim kararlaş
 | Shiny | Parlak |
 | Stage | Aşama |
 | Trainer | Eğitmen |
+| Trial / Trial Site | Sınav / Sınav Alanı |
 | Underground | Yeraltı |
 | Wandering | Dolaşan |
 | Wither | Kurumak |
+
+`Battle` ile `Fighting` çakışmaz: **Battle → Savaş**, **Fighting (tip) → Dövüş**.
+`Type` da ikiye ayrılır: **Pokémon tipi → Tip**, **eşya/karşılaşma türü → Tür**.
+
+Para birimleri Türkçeleşir (`Görev Puanı`, `Savaş Puanı`, `Çiftlik Puanı`, `Zindan Jetonu`,
+`Elmas`) çünkü sayı bildiren cins isimlerdir. `Poké Dollar` bir marka adı olduğu için
+İngilizce kalır.
 
 ### Pokémon tipleri
 
