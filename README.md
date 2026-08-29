@@ -8,6 +8,14 @@ Translated content for the browser game [pokeclicker](https://github.com/pokecli
 - ### [For Developers](instructions/developers.md)
 - ### [For Maintainers](instructions/maintainers.md)
 
+## Turkish Translation
+
+The Turkish locale (`locales/tr/`) is maintained by
+[**Kuroiteiken** (Nihat Tavsan)](https://github.com/Kuroiteiken).
+
+Style rules, glossary and quality checks for Turkish are documented in [AGENTS.md](AGENTS.md).
+Run `node scripts/check-tr.js` to validate the Turkish files before opening a pull request.
+
 ## Contributors
 
 <!-- readme: contributors -start -->
@@ -139,6 +147,14 @@ Translated content for the browser game [pokeclicker](https://github.com/pokecli
             <img src="https://avatars.githubusercontent.com/u/55932338?v=4" width="100;" alt="ptititata"/>
             <br />
             <sub><b>ptititata</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/Kuroiteiken">
+            <img src="https://avatars.githubusercontent.com/u/882130?v=4" width="100;" alt="Kuroiteiken"/>
+            <br />
+            <sub><b>Kuroiteiken</b></sub>
         </a>
     </td></tr>
 </table>
